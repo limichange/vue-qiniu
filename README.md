@@ -7,3 +7,5 @@
 # 相关
 
 七牛图像API http://developer.qiniu.com/code/v6/api/kodo-api/image/imageview2.html
+
+属性覆盖测试 https://jsfiddle.net/a4xkfce2/
